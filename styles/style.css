@@ -111,7 +111,7 @@ body {
 .main-info p {
   font-size: 24px;
   line-height: 120%;
-  color: #beb9b9;
+  color: #a8a3a3;
   max-width: 445px;
   margin-bottom: 60px;
 }
@@ -168,7 +168,7 @@ body {
   row-gap: 30px;
 }
 .car {
-  background-color: #212121;
+  background-color: #222121;
   padding: 20px;
   display: flex;
 }
